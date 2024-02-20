@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:tictactoe/screens/home_page.dart';
-import 'package:tictactoe/screens/options_page.dart';
-// import 'package:tictactoe/screens/history_page.dart';
+import 'package:tictactoe/pages/home_page.dart';
+import 'package:tictactoe/pages/options_page.dart';
+// import 'package:tictactoe/pages/history_page.dart';
 
 void main() {
   runApp(TicTacToeApp());
